@@ -1,183 +1,150 @@
-.heading
-{
+.heading {
   text-align: center;
-  font-family: 'Spectral SC', serif;
+  font-family: "Spectral SC", serif;
   margin-bottom: 0px;
 }
 /* ---------------------------------INTRO------------------------------------ */
-body
-{
+body {
   margin: 0;
-
 }
 
-.intro
-{
-  background-color: #FFB396;
+.intro {
+  background-color: #ffb396;
   width: 100%;
   height: 650px;
   background-image: url(./Media Files/background.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 650px;
-
-
 }
 
-.name
-{
+.name {
   text-align: center;
   position: relative;
   top: 230px;
-  font-family: 'Sacramento', cursive;
-  font-size: 5rem; }
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+}
 
-
-.name-con
-{
+.name-con {
   text-align: center;
   position: relative;
   top: 230px;
   font-size: 1rem;
-  font-family: 'Courgette', cursive;
+  font-family: "Courgette", cursive;
 }
 
-
-h1
-{
+h1 {
   margin-top: 0;
   margin-bottom: 0;
 }
 
 /* -----------------------------PROFILE---------------------------------- */
 
-.heading-pro
-{
-
-    margin-top: 0;
-    margin-bottom: 0;
-    font-size: 2.5rem;
-    color: #008891;
-    font-family: 'Spectral SC', serif;
+.heading-pro {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 2.5rem;
+  color: #008891;
+  font-family: "Spectral SC", serif;
 }
 
-.profile-main
-{
+.profile-main {
   background-color: white;
   margin: 0;
 }
-.profile
-{
+.profile {
   text-align: center;
   margin: auto;
   width: 50%;
   background-color: white;
   padding: 30px;
-
 }
 
-.heading-M
-{
+.heading-M {
   margin-top: 20px;
   color: #008891;
   font-size: 2rem;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: "Ubuntu", sans-serif;
   color: #ff4646;
 }
 
-.heading
-{
+.heading {
   margin-top: 20px;
   color: #008891;
   font-size: 2.5rem;
 }
 
-
-.about
-{
+.about {
   clear: left;
   line-height: 2;
-  font-family: 'Frank Ruhl Libre', serif;
+  font-family: "Frank Ruhl Libre", serif;
   font-size: 1rem;
 }
 
-.about1
-{
+.about1 {
   clear: left;
-  font-family: 'Maven Pro', sans-serif;
+  font-family: "Maven Pro", sans-serif;
   font-size: 1.75rem;
 }
 
-.details
-{
-  margin-top : 60px;
+.details {
+  margin-top: 60px;
   font-size: 1.75rem;
-  font-family: 'Maven Pro', sans-serif;
+  font-family: "Maven Pro", sans-serif;
 }
 
-.details1
-{
+.details1 {
   font-size: 1.25rem;
-  font-family: 'Frank Ruhl Libre', serif;
+  font-family: "Frank Ruhl Libre", serif;
   line-height: 1.5;
 }
 
-
 /* --------------------------------EDUCATION--------------------------------  */
 
-.edu
-{
+.edu {
   text-align: center;
   margin-top: 0;
   background-color: #fceef5;
   font-size: 1rem;
 }
 
-.edu-table
-{
-
+.edu-table {
   margin: 0 auto;
 }
 
-.place
-{
+.place {
   font-size: 1.25rem;
-  font-family: 'Maven Pro', sans-serif;
+  font-family: "Maven Pro", sans-serif;
 }
 
-.sub
-{
-  font-family: 'Frank Ruhl Libre', serif;
+.sub {
+  font-family: "Frank Ruhl Libre", serif;
   font-size: 1rem;
 }
 /* --------------------------------EXPERIENCES--------------------------------  */
 
-.heading-exp
-{
+.heading-exp {
   margin-top: 100px;
   text-align: center;
-  font-family: 'Spectral SC', serif;
+  font-family: "Spectral SC", serif;
   font-size: 2.5rem;
   color: #008891;
   margin-top: 30px;
   margin-bottom: 0;
 }
 
-h3
-{
+h3 {
   font-size: 1.5rem;
 }
-.skill-row
-{
+.skill-row {
   width: 55%;
   margin: 100px auto;
   text-align: left;
   margin-top: 60px;
-
 }
 
-.img1
-{
+.img1 {
   height: 170px;
   width: 170px;
   float: left;
@@ -186,15 +153,12 @@ h3
   top: 30px;
 }
 
-.img1-code
-{
+.img1-code {
   clear: right;
   line-height: 1.5;
-
 }
 
-.img2
-{
+.img2 {
   height: 170px;
   width: 170px;
   float: right;
@@ -203,15 +167,12 @@ h3
   top: 50px;
 }
 
-.img2-code
-{
+.img2-code {
   clear: left;
   line-height: 1.5;
-
 }
 
-.img3
-{
+.img3 {
   height: 170px;
   width: 180px;
   float: left;
@@ -220,29 +181,24 @@ h3
   top: 35px;
 }
 
-.img3-code
-{
+.img3-code {
   clear: right;
   line-height: 1.5;
-
 }
 
-.company
-{
+.company {
   color: grey;
 }
-.exp-con
-{
-  font-family: 'Frank Ruhl Libre', serif;
+.exp-con {
+  font-family: "Frank Ruhl Libre", serif;
 }
 
-{
-  font-family: 'Frank Ruhl Libre', serif;
+ {
+  font-family: "Frank Ruhl Libre", serif;
   margin-left: 200px;
 }
 
-.experiences
-{
+.experiences {
   background-color: #fceef5;
   padding-bottom: 40px;
   padding-top: 3px;
@@ -250,13 +206,11 @@ h3
 
 /* --------------------------------SKILLS--------------------------------  */
 
-.skill-row
-{
+.skill-row {
   position: relative;
   bottom: 20px;
 }
-.skill
-{
+.skill {
   width: 100px;
 
   position: relative;
@@ -264,8 +218,7 @@ h3
   top: 12px;
 }
 
-.skill1
-{
+.skill1 {
   width: 100px;
 
   position: relative;
@@ -273,8 +226,7 @@ h3
   left: 360px;
 }
 
-.skill2
-{
+.skill2 {
   width: 100px;
 
   position: relative;
@@ -282,8 +234,7 @@ h3
   left: 585px;
 }
 
-.skill3
-{
+.skill3 {
   width: 100px;
 
   position: relative;
@@ -291,8 +242,7 @@ h3
   left: 840px;
 }
 
-.skill4
-{
+.skill4 {
   width: 100px;
 
   position: relative;
@@ -300,42 +250,34 @@ h3
   left: 1060px;
 }
 
-
-.skill-img
-{
+.skill-img {
   width: 100px;
   height: 100px;
 }
 
-.skill-name
-{
+.skill-name {
   height: 30px;
 }
 
-.ab
-{
-  height : 400px;
+.ab {
+  height: 400px;
 }
 
-.heading-ab
-{
+.heading-ab {
   text-align: center;
-  font-family: 'Spectral SC', serif;
+  font-family: "Spectral SC", serif;
   font-size: 3rem;
   color: #008891;
 }
 
-.heading-skills
-{
+.heading-skills {
   text-align: center;
-  font-family: 'Spectral SC', serif;
+  font-family: "Spectral SC", serif;
   font-size: 2rem;
   color: #008891;
 }
 
-
-.skill-para
-{
+.skill-para {
   margin-bottom: 0;
   margin-top: 0;
   position: relative;
@@ -343,8 +285,7 @@ h3
   font-size: 1.25rem;
 }
 
-.skill-para1
-{
+.skill-para1 {
   margin-bottom: 0;
   margin-top: 0;
   position: relative;
@@ -352,8 +293,7 @@ h3
   font-size: 1.25rem;
 }
 
-.skill-para2
-{
+.skill-para2 {
   margin-bottom: 0;
   margin-top: 0;
   position: relative;
@@ -361,8 +301,7 @@ h3
   font-size: 1.25rem;
 }
 
-.skill-para3
-{
+.skill-para3 {
   margin-bottom: 0;
   margin-top: 0;
   position: relative;
@@ -370,8 +309,7 @@ h3
   font-size: 1.25rem;
 }
 
-.skill-para4
-{
+.skill-para4 {
   margin-bottom: 80px;
   margin-top: 0;
   position: relative;
@@ -380,45 +318,43 @@ h3
 }
 /* --------------------------------LANGUAGES--------------------------------  */
 
-.hrstyle
-{
-    border: 0;
-    height: 1px;
-    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
-    width: 50%;
+.hrstyle {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0)
+  );
+  width: 50%;
 }
 
-.heading-lang
-{
+.heading-lang {
   margin-bottom: 0;
   text-align: center;
   font-size: 2rem;
-  font-family: 'Spectral SC', serif;
-  color : #008891;
+  font-family: "Spectral SC", serif;
+  color: #008891;
 }
 
-.table
-{
+.table {
   font-size: 1.5rem;
 }
 /* --------------------------------CONTACT--------------------------------  */
-.con-im
-{
+.con-im {
   height: 30px;
   margin: 10px 30px;
-  display: inline-block ;
+  display: inline-block;
 }
 
-.contact
-{
+.contact {
   text-align: center;
   background-color: #495464;
   color: white;
   padding: 20px;
 }
 
-
-a
-{
+a {
   text-decoration: none;
 }
