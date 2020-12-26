@@ -1,0 +1,424 @@
+.heading
+{
+  text-align: center;
+  font-family: 'Spectral SC', serif;
+  margin-bottom: 0px;
+}
+/* ---------------------------------INTRO------------------------------------ */
+body
+{
+  margin: 0;
+
+}
+
+.intro
+{
+  background-color: #FFB396;
+  width: 100%;
+  height: 650px;
+  background-image: url(./Media Files/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 650px;
+
+
+}
+
+.name
+{
+  text-align: center;
+  position: relative;
+  top: 230px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem; }
+
+
+.name-con
+{
+  text-align: center;
+  position: relative;
+  top: 230px;
+  font-size: 1rem;
+  font-family: 'Courgette', cursive;
+}
+
+
+h1
+{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* -----------------------------PROFILE---------------------------------- */
+
+.heading-pro
+{
+
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 2.5rem;
+    color: #008891;
+    font-family: 'Spectral SC', serif;
+}
+
+.profile-main
+{
+  background-color: white;
+  margin: 0;
+}
+.profile
+{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  background-color: white;
+  padding: 30px;
+
+}
+
+.heading-M
+{
+  margin-top: 20px;
+  color: #008891;
+  font-size: 2rem;
+  font-family: 'Ubuntu', sans-serif;
+  color: #ff4646;
+}
+
+.heading
+{
+  margin-top: 20px;
+  color: #008891;
+  font-size: 2.5rem;
+}
+
+
+.about
+{
+  clear: left;
+  line-height: 2;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 1rem;
+}
+
+.about1
+{
+  clear: left;
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 1.75rem;
+}
+
+.details
+{
+  margin-top : 60px;
+  font-size: 1.75rem;
+  font-family: 'Maven Pro', sans-serif;
+}
+
+.details1
+{
+  font-size: 1.25rem;
+  font-family: 'Frank Ruhl Libre', serif;
+  line-height: 1.5;
+}
+
+
+/* --------------------------------EDUCATION--------------------------------  */
+
+.edu
+{
+  text-align: center;
+  margin-top: 0;
+  background-color: #fceef5;
+  font-size: 1rem;
+}
+
+.edu-table
+{
+
+  margin: 0 auto;
+}
+
+.place
+{
+  font-size: 1.25rem;
+  font-family: 'Maven Pro', sans-serif;
+}
+
+.sub
+{
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 1rem;
+}
+/* --------------------------------EXPERIENCES--------------------------------  */
+
+.heading-exp
+{
+  margin-top: 100px;
+  text-align: center;
+  font-family: 'Spectral SC', serif;
+  font-size: 2.5rem;
+  color: #008891;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+h3
+{
+  font-size: 1.5rem;
+}
+.skill-row
+{
+  width: 55%;
+  margin: 100px auto;
+  text-align: left;
+  margin-top: 60px;
+
+}
+
+.img1
+{
+  height: 170px;
+  width: 170px;
+  float: left;
+  position: relative;
+  right: 40px;
+  top: 30px;
+}
+
+.img1-code
+{
+  clear: right;
+  line-height: 1.5;
+
+}
+
+.img2
+{
+  height: 170px;
+  width: 170px;
+  float: right;
+  position: relative;
+  left: 17px;
+  top: 50px;
+}
+
+.img2-code
+{
+  clear: left;
+  line-height: 1.5;
+
+}
+
+.img3
+{
+  height: 170px;
+  width: 180px;
+  float: left;
+  position: relative;
+  right: 35px;
+  top: 35px;
+}
+
+.img3-code
+{
+  clear: right;
+  line-height: 1.5;
+
+}
+
+.company
+{
+  color: grey;
+}
+.exp-con
+{
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+{
+  font-family: 'Frank Ruhl Libre', serif;
+  margin-left: 200px;
+}
+
+.experiences
+{
+  background-color: #fceef5;
+  padding-bottom: 40px;
+  padding-top: 3px;
+}
+
+/* --------------------------------SKILLS--------------------------------  */
+
+.skill-row
+{
+  position: relative;
+  bottom: 20px;
+}
+.skill
+{
+  width: 100px;
+
+  position: relative;
+  left: 140px;
+  top: 12px;
+}
+
+.skill1
+{
+  width: 100px;
+
+  position: relative;
+  bottom: 130px;
+  left: 360px;
+}
+
+.skill2
+{
+  width: 100px;
+
+  position: relative;
+  bottom: 275px;
+  left: 585px;
+}
+
+.skill3
+{
+  width: 100px;
+
+  position: relative;
+  bottom: 420px;
+  left: 840px;
+}
+
+.skill4
+{
+  width: 100px;
+
+  position: relative;
+  bottom: 565px;
+  left: 1060px;
+}
+
+
+.skill-img
+{
+  width: 100px;
+  height: 100px;
+}
+
+.skill-name
+{
+  height: 30px;
+}
+
+.ab
+{
+  height : 400px;
+}
+
+.heading-ab
+{
+  text-align: center;
+  font-family: 'Spectral SC', serif;
+  font-size: 3rem;
+  color: #008891;
+}
+
+.heading-skills
+{
+  text-align: center;
+  font-family: 'Spectral SC', serif;
+  font-size: 2rem;
+  color: #008891;
+}
+
+
+.skill-para
+{
+  margin-bottom: 0;
+  margin-top: 0;
+  position: relative;
+  left: 23px;
+  font-size: 1.25rem;
+}
+
+.skill-para1
+{
+  margin-bottom: 0;
+  margin-top: 0;
+  position: relative;
+  left: 70px;
+  font-size: 1.25rem;
+}
+
+.skill-para2
+{
+  margin-bottom: 0;
+  margin-top: 0;
+  position: relative;
+  left: 7px;
+  font-size: 1.25rem;
+}
+
+.skill-para3
+{
+  margin-bottom: 0;
+  margin-top: 0;
+  position: relative;
+  left: 11px;
+  font-size: 1.25rem;
+}
+
+.skill-para4
+{
+  margin-bottom: 80px;
+  margin-top: 0;
+  position: relative;
+  left: 43px;
+  font-size: 1.25rem;
+}
+/* --------------------------------LANGUAGES--------------------------------  */
+
+.hrstyle
+{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    width: 50%;
+}
+
+.heading-lang
+{
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'Spectral SC', serif;
+  color : #008891;
+}
+
+.table
+{
+  font-size: 1.5rem;
+}
+/* --------------------------------CONTACT--------------------------------  */
+.con-im
+{
+  height: 30px;
+  margin: 10px 30px;
+  display: inline-block ;
+}
+
+.contact
+{
+  text-align: center;
+  background-color: #495464;
+  color: white;
+  padding: 20px;
+}
+
+
+a
+{
+  text-decoration: none;
+}
